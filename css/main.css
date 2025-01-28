@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+div { 
+    width: 400px;
+    height: auto;
+    margin: auto;
+    font-size:  100px;
+    
+}
+table {
+    text-align: center;
+    background-color: aqua;
+    margin: auto;
+
+    font-size: 60px;
+     
+}
+td{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(35, 112, 112);
+}
+td:hover {
+    background-color: rgb(68, 129, 129);
+    cursor: pointer;
+}
